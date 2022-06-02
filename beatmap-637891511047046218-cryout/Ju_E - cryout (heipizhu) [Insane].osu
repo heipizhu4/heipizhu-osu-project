@@ -1,0 +1,83 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 2
+GridSize: 32
+TimelineZoom: 2.2
+
+[Metadata]
+Title:cryout
+TitleUnicode:cryout
+Artist:Ju_E
+ArtistUnicode:Ju_E
+Creator:heipizhu
+Version:Insane
+Source:cytoid.io
+Tags:touchscreen
+BeatmapID:0
+BeatmapSetID:-1
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:5
+OverallDifficulty:5
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+-90,333.333333333334,4,2,0,100,1,0
+
+
+[HitObjects]
+28,5,1243,5,8,0:0:0:0:
+161,100,1410,1,0,0:0:0:0:
+33,179,1576,1,0,0:0:0:0:
+156,264,1743,1,0,0:0:0:0:
+352,350,1910,5,0,0:0:0:0:
+479,265,2076,1,0,0:0:0:0:
+344,177,2243,1,0,0:0:0:0:
+471,89,2410,1,0,0:0:0:0:
+153,10,2576,5,0,0:0:0:0:
+38,94,2743,1,0,0:0:0:0:
+158,180,2910,1,0,0:0:0:0:
+36,264,3076,1,0,0:0:0:0:
+465,341,3243,5,0,0:0:0:0:
+369,265,3410,1,0,0:0:0:0:
+452,177,3576,1,0,0:0:0:0:
+353,92,3743,1,0,0:0:0:0:
+139,7,3910,5,0,0:0:0:0:
+258,90,4076,1,0,0:0:0:0:
+179,178,4243,1,0,0:0:0:0:
+290,262,4410,1,0,0:0:0:0:
+48,349,4576,5,0,0:0:0:0:
+487,263,4743,1,0,0:0:0:0:
+40,175,4910,1,0,0:0:0:0:
+479,93,5076,1,0,0:0:0:0:
+192,6,5243,5,0,0:0:0:0:
+115,52,5410,1,0,0:0:0:0:
+404,141,5743,1,0,0:0:0:0:
+143,224,6076,1,0,0:0:0:0:
+269,308,6410,1,0,0:0:0:0:

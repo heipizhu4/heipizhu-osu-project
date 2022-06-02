@@ -1,0 +1,24 @@
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+Sprite,Foreground,Centre,"Scanning line.png",0,40
+ M,0,43,576,0,80,0,420
+ M,0,576,1243,0,420,0,80
+ M,0,1243,1910,0,80,0,420
+ M,0,1910,2576,0,420,0,80
+ M,0,2576,3243,0,80,0,420
+ M,0,3243,3910,0,420,0,80
+ M,0,3910,4576,0,80,0,420
+ M,0,4576,5243,0,420,0,80
+ M,0,5243,6576,0,80,0,420
+Sprite,Foreground,Centre,"Edge.png",0,80
+ F,0,0,1000,0,1
+ F,0,1000,10000,1
+Sprite,Foreground,Centre,"Edge.png",0,420
+ F,0,0,1000,0,1
+ F,0,1000,10000,1
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
